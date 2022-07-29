@@ -27,16 +27,4 @@
 
     }
 
-    .my-button {
-        padding: 0;
-        margin: 0;
-    }
-}
-
-@media screen and (min-width:577px) and (max-width:768px) {
-    .slider-caption {
-        width: 75%;
-
-    }
-
 }
